@@ -25,7 +25,7 @@ class ProfilePage extends StatelessWidget {
             const SizedBox(height: 8),
             const Text('Versi: 1.0.0'),
             const SizedBox(height: 8),
-            const Text('Developer: [Nama Anda]'),
+            const Text('Developer: Fachry Firdaus Avicenna'),
           ],
         ),
       ),
