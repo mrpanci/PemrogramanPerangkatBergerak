@@ -22,12 +22,12 @@ class NewsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Data berita (bisa lebih dari 1 nanti)
+    // Data berita 
     final List<Map<String, String>> newsList = [
       {
         "title": "Comeback Epic No Man's Sky",
         "subtitle":
-            "Game No Man’s Sky akhirnya mendapat review positif dari gamers setelah 8 tahun.",
+            "Game No Man’s Sky akhirnya mendapat review positif dari gamers setelah 8 tahun perilisannya di platform steam.",
         "image": "assets/nomansky.jpg"
       }
     ];
